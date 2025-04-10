@@ -1,0 +1,11 @@
+# pip install -r requirements.txt
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+dill
+flask
+# -e .
